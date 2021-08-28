@@ -1,13 +1,13 @@
-package edu.eci.ieti.taskapirest.taskdto;
+package edu.eci.ieti.taskapirest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TaskdtoApplication {
+public class TaskapirestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TaskdtoApplication.class, args);
+		SpringApplication.run(TaskapirestApplication.class, args);
 	}
 
 }
